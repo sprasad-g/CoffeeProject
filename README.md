@@ -1,2 +1,3 @@
-# CoffeeProject-
-A static webpage 
+# CoffeeProject
+
+A static webpage
